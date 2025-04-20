@@ -1,4 +1,4 @@
-# **🚗 Pulse Landing Page**
+# **🏃‍♂️ Pulse Landing Page**
 
 A simple landing page for selling a running devises. Created for practicing web layout and UI design
 
