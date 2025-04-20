@@ -7,7 +7,8 @@ A simple landing page for selling a running devises. Created for practicing web 
 ## **🛠 Technologies Used**
 
 - HTML5  
-- CSS3  
+- CSS3
+- JS
 
 ---
 
